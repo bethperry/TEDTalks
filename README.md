@@ -1,10 +1,12 @@
 # Summarizing TED Talks using KMeans Clustering
 
-This notebook explores 2,550 TED Talks given between 1972 and 2017 (dataset available from Kaggle [here](https://www.kaggle.com/rounakbanik/ted-talks)), then builds several KMeans clustering models to group the talks according to their assigned tags. 
+This notebook explores 2,550 TED Talks given between 1972 and 2017 (dataset available from Kaggle [here](https://www.kaggle.com/rounakbanik/ted-talks)), then builds several KMeans clustering models to group the talks according to their assigned tags.
 
 The resulting clusters are visualized through word clouds to demonstrate: 
 1. The criteria each model selected for dividing the talks 
 2. The effect of varying the number of clusters in each model
+
+The models are evaluated using the silhouette score.
 
   
 ## Files
