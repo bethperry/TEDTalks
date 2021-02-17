@@ -1,10 +1,12 @@
 # Summarizing TED Talks using KMeans Clustering
-===============================================
+
 
 This notebook explores the TED Talks dataset (available from Kaggle [here](https://www.kaggle.com/rounakbanik/ted-talks)), then builds several KMeans clustering models to group the talks according to their assigned tags. The resulting clusters are visualized through word clouds to demonstrate the criteria each model selected for dividing the talks.
 
-### Files
----------
+
+  
+## Files
+
 
 **Notebook**
 - TEDTalks_EDA&KMeansModel
@@ -12,8 +14,10 @@ This notebook explores the TED Talks dataset (available from Kaggle [here](https
 **Data**
 - Data\ted_main.csv
 
-### Python Libraries Used
--------------------------
+
+  
+## Python Libraries Used
+
 
 **Data Prep and Analysis**
 - numpy
@@ -31,8 +35,9 @@ This notebook explores the TED Talks dataset (available from Kaggle [here](https
 - kneed (for calculating the "elbow point" of the clustering model)
 
 
-### Credits
------------
+  
+## Credits
+
 
 I found these resources particularly helpful in completing this analysis:
 
