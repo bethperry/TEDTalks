@@ -13,7 +13,7 @@ The models are evaluated using the silhouette score.
 
 **Notebook:** TEDTalks_EDA&KMeansModel
 
-**Data:** Data\ted_main.csv
+**Data:** data\ted_main.csv
 
 
 ## Python Libraries Used
