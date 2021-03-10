@@ -44,5 +44,6 @@ I found these resources particularly helpful in completing this analysis:
 - [Unsupervised learning of TED talk categories](https://www.kaggle.com/mattchurgin/unsupervised-learning-of-ted-talk-categories)
 - [Knee/Elbow Point Detection](https://www.kaggle.com/kevinarvai/knee-elbow-point-detection)
 - [A Data Science point of view of TED Talks](https://www.kaggle.com/liberoliber/a-data-science-point-of-view-of-ted-talks#Summarizing-the-TED-Trascripts)
+- [Plot multiple images with matplotlib in a single figure](https://gist.github.com/soply/f3eec2e79c165e39c9d540e916142ae1)
 
 My notebook has reused some of the code and concepts from each of the links listed above.
